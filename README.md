@@ -18,3 +18,6 @@ The project extracts user information from a SQLite database, parses unstructure
 - Seaborn
 - Jupyter Notebook
 
+## Project Workflow
+
+<img width="1366" height="768" alt="workflow" src="https://github.com/user-attachments/assets/70044fbe-d606-4d2e-abc0-4f11535ba9bf" />
